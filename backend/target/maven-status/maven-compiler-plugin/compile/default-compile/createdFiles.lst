@@ -1,0 +1,6 @@
+com\honda\social\model\Comment.class
+com\honda\social\exception\BadRequestException.class
+com\honda\social\dto\UserDto.class
+com\honda\social\model\User.class
+com\honda\social\model\Like.class
+com\honda\social\model\Post.class
